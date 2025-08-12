@@ -31,7 +31,7 @@
 
 ## 🌟 Projects  
 - 📌 **[Jolkhabar Website](https://watcher141.github.io)** – A content-rich, user-friendly web platform.  
-- 📌 *(Add more projects as you build them!)*  
+
 
 ---
 
